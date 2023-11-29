@@ -42,6 +42,11 @@ In the file:
  
     `SQUARE_SANDBOX_ACCESS_TOKEN=yourSandboxAccessToken`
 
+1. In your terminal change into the `backend` directory
+    ```bash
+    $ cd backend
+    ```
+
 1. Ensure that you have a python virtual environment installed and activated. If not, run the following commands from a terminal prompt.
  
     `$ python3 -m venv ./venv`
