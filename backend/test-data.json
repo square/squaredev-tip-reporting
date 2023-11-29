@@ -1,0 +1,138 @@
+{
+    "jobs": {
+      "serving": [
+        {
+          "job_title": "Server",
+          "pay_type": "HOURLY",
+          "hourly_rate": {
+            "amount": 3000,
+            "currency": "USD"
+          }
+        },
+        {
+          "job_title": "Bartender",
+          "pay_type": "HOURLY",
+          "hourly_rate": {
+            "amount": 3500,
+            "currency": "USD"
+          }
+        }
+    ],
+    "staff": [
+      {
+        "job_title": "Busser",
+        "pay_type": "HOURLY",
+        "hourly_rate": {
+          "amount": 2500,
+          "currency": "USD"
+        }
+      },
+      {
+        "job_title": "Host",
+        "pay_type": "HOURLY",
+        "hourly_rate": {
+          "amount": 2800,
+          "currency": "USD"
+        }
+      },
+      {
+        "job_title": "Cook",
+        "pay_type": "HOURLY",
+        "hourly_rate": {
+          "amount": 4000,
+          "currency": "USD"
+        }
+      }
+    ],
+      "manager": {
+          "job_title": "Manager",
+          "pay_type": "HOURLY",
+          "hourly_rate": {
+            "amount": 3900,
+            "currency": "USD"
+          }
+        }
+    },
+    "line_items": [
+      {
+          "name": "Classic Cheeseburger",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1500,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Truffle Fries",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1200,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Grilled Chicken Sandwich",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1400,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Mushroom Swiss Burger",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1600,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Fish and Chips",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1800,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Craft Old Fashioned",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 2000,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Gin Basil Smash",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1800,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Spicy Margarita",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1900,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Moscow Mule",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1600,
+              "currency": "USD"
+          }
+      },
+      {
+          "name": "Sangria Punch",
+          "quantity": "1",
+          "base_price_money": {
+              "amount": 1500,
+              "currency": "USD"
+          }
+      }
+    ]
+  }
